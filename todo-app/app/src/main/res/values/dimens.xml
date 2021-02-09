@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Common dimensions-->
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!--Text size dimensions-->
+    <dimen name="textSuperExtraFocus">30sp</dimen>
+    <dimen name="textLargeTitle">20sp</dimen>
+    <dimen name="textTitle">18sp</dimen>
+    <dimen name="textParagraphTitle">16sp</dimen>
+    <dimen name="textLargeBody">16sp</dimen>
+    <dimen name="textBody">14sp</dimen>
+    <dimen name="textSmallBody">12sp</dimen>
+    <dimen name="textSmallerBody">10sp</dimen>
+
+    <dimen name="width_2">2dp</dimen>
+    <dimen name="width_24">24dp</dimen>
+
+    <dimen name="height_24">24dp</dimen>
+
+    <dimen name="margin_0">0dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_48">48dp</dimen>
+
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_24">24dp</dimen>
+
+    <dimen name="elevation_2">2dp</dimen>
+    <dimen name="elevation_4">4dp</dimen>
+</resources>

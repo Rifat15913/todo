@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#222222</color>
+    <color name="colorPrimaryDark">#222222</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <!--Extra colors-->
+    <color name="colorTextRegular">#1C1C1C</color>
+    <color name="colorTextMedium">#434343</color>
+    <color name="colorTextLight">#939393</color>
+    <color name="colorOffLight">#F3F3F3</color>
+    <color name="colorTextRed">#F04975</color>
+    <color name="colorWhite">#000000</color>
+
+    <!--Ripple colors-->
+    <color name="colorPrimary26">#43000000</color>
+    <color name="colorPrimary50">#80000000</color>
+    <color name="colorPrimary16">#0F000000</color>
+
+</resources>
